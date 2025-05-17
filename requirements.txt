@@ -1,0 +1,13 @@
+langchain_astradb
+pandas
+langchain_google_genai
+fastapi 
+uvicorn 
+python-multipart
+jinja2
+python-dotenv 
+langchain 
+langchain_core 
+uvicorn
+fastapi
+-e .
